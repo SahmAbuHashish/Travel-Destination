@@ -1,0 +1,17 @@
+.footer{
+    margin-top: 22%;
+    background-color: rgb(250, 250, 250);
+    padding: 20px;
+    text-align: center;
+}
+
+.footer ul {
+    padding: 10px 10px;
+    margin-right: 10px;
+    list-style-type:none ;
+    gap: 20px;
+}
+
+a{
+    text-decoration: none;
+}

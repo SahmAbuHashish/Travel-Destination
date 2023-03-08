@@ -1,0 +1,14 @@
+.turesDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.turesDiv img{
+
+    margin: 10px ;
+    width: 1000px;
+    height: 700px;
+    float: left;
+}
